@@ -1,0 +1,5 @@
+mytuple=("Hyundai","Ford")
+print(mytuple)
+print(mytuple[0])
+print(mytuple[1])
+         
